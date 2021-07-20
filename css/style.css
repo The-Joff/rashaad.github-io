@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: peru
+}
+
+header {
+    text-align: center;
+    color:ghostwhite;
+    margin: 0 auto;
+    border: gray 5px solid; 
+    padding: 10px 20px;
+}
+
+main {
+    padding: 20px;
+    border: gray 5px solid;
+}
+
+nav {
+    display: flex;
+    border: gray 5px solid;
+
+}
+
+.nav-sections {
+    padding: 5px 20px;
+    margin: 0 auto;
+    text-align: center;
+
+}
